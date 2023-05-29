@@ -11,5 +11,7 @@ Keywords: quaternion, electrodynamics, magneto scalar potential
 ### References
 
 Monstein, C., & Wesley, J. P. (2002). Observation of scalar longitudinal electrodynamic waves. Europhysics Letters, 514–520.
+
 Rębilas, K. (2008). On the origin of "longitudinal electrodynamic waves". Europhysics Letters, 60007(1–5).
+
 van Vlaenderen, K., & Waser, A. (2001). Generalisation of classical electrodynamics to admit a scalar field and longitudinal waves. Hadronic Journal, 24, 609.
