@@ -8,7 +8,7 @@ The laws of the theory of electrodynamics were formulated in quaternion form. I 
 
 Keywords: quaternion, electrodynamics, magneto scalar potential
 
-### References
+### Bibliography
 
 Monstein, C., & Wesley, J. P. (2002). Observation of scalar longitudinal electrodynamic waves. Europhysics Letters, 514–520.
 
